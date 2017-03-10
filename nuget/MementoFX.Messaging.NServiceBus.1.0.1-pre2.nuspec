@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+    <metadata>
+        <id>MementoFX.Messaging.NServiceBus</id>
+        <version>1.0.1-pre2</version>
+        <title>MementoFX NServiceBus</title>
+        <authors>Mastreeno ltd,Andrea Saltarello</authors>
+        <owners>Mastreeno ltd</owners>
+        <licenseUrl>http://www.mastreeno.com/license/evaluation</licenseUrl>
+        <projectUrl>http://mementofx.mastreeno.com</projectUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>A NServiceBus powered event dispatcher for MementoFX</description>
+        <copyright>Copyright 2016 Mastreeno ltd. All rights reserved</copyright>
+        <tags>mementofx memento nservicebus bus cqrs ddd</tags>
+        <dependencies>
+            <dependency id="NServiceBus" version="5.2.15" />
+            <dependency id="MementoFX" version="[1.2.0, 2.0)" />
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\src\Memento.Messaging.NServiceBus\bin\Release\Memento.Messaging.NServiceBus.dll" target="lib\net451\Memento.Messaging.NServiceBus.dll" />
+        <file src="..\src\Memento.Messaging.NServiceBus\bin\Release\Memento.Messaging.NServiceBus.pdb" target="lib\net451\Memento.Messaging.NServiceBus.pdb" />
+        <file src="..\src\Memento.Messaging.NServiceBus\bin\Release\Memento.Messaging.NServiceBus.XML" target="lib\net451\Memento.Messaging.NServiceBus.XML" />
+    </files>
+</package>
