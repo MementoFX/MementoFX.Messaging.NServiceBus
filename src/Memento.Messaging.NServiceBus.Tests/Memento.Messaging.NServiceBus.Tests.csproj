@@ -47,8 +47,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="NServiceBus.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=9fc386479f8a226c, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\NServiceBus.5.2.15\lib\net45\NServiceBus.Core.dll</HintPath>
-      <Private>True</Private>
+      <HintPath>..\..\packages\NServiceBus.5.2.23\lib\net45\NServiceBus.Core.dll</HintPath>
     </Reference>
     <Reference Include="SharpTestsEx, Version=1.2.1.0, Culture=neutral, PublicKeyToken=8c60d8070630b1c1, processorArchitecture=MSIL">
       <HintPath>..\..\packages\SharpTestsEx.1.2.1\lib\SharpTestsEx.dll</HintPath>
