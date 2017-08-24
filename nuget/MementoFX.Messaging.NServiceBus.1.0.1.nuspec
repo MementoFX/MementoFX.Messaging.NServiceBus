@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>MementoFX.Messaging.NServiceBus</id>
-        <version>1.0.1-pre2</version>
+        <version>1.0.1</version>
         <title>MementoFX NServiceBus</title>
         <authors>Mastreeno ltd,Andrea Saltarello</authors>
         <owners>Mastreeno ltd</owners>
@@ -14,7 +14,7 @@
         <tags>mementofx memento nservicebus bus cqrs ddd</tags>
         <dependencies>
             <dependency id="NServiceBus" version="5.2.15" />
-            <dependency id="MementoFX" version="[1.2.0, 2.0)" />
+            <dependency id="MementoFX" version="[5.2.0, 5.3)" />
         </dependencies>
     </metadata>
     <files>
