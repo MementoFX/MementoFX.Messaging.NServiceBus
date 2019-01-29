@@ -6,7 +6,7 @@ need all contributors to adhere to so that we can have a chance of keeping on to
 ## Getting Started
 
 * Make sure you have a [GitHub account](https://github.com/signup/free)
-* [Create a new issue](https://github.com/MementoFX/MementoFX/issues/new), if one does not already exist, and clearly describe it. If it is a bug:
+* [Create a new issue](https://github.com/MementoFX/MementoFX.Messaging.NServiceBus/issues/new), if one does not already exist, and clearly describe it. If it is a bug:
   * Include steps to reproduce it.
   * Make sure you tell us what version you have encountered this bug on.
 * Fork the repository on GitHub
@@ -33,9 +33,9 @@ Avoid introducing breaking changes of any sort.
 
 ## Submitting Changes
 
-* Sign the [Contributor License Agreement](http://www.mastreeno.com/License/ContributorsAgreementConsent).
+* Sign the [Contributor License Agreement](http://opensource.manageddesigns.it/License/ContributorsAgreementConsent).
 * Push your changes to a feature branch in your fork of the repository.
-* Submit a pull request to the MementoFX repository
+* Submit a pull request to the MementoFX.Messaging.NServiceBus repository
 
 # Additional Resources
 
